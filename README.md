@@ -1,5 +1,4 @@
-# .NET-MVC
-# .NET CRUD
+# C# .NET-MVC
 
 .NET CRUD is a simple web application that allows you to create, read, update and delete data from a database using .NET framework.
 
